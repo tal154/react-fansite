@@ -1,0 +1,931 @@
+{
+    "locations": [
+        {
+            "id": 1,
+            "zoneCount": 17,
+            "name": "Ancient Forest",
+            "category": "Hunting",
+            "type": "Forest",
+            "description": "A lush, ancient forest with towering trees and diverse wildlife.",
+            "summary": "Home to a variety of flora, fauna, and monsters, this lush green prehistoric-esque forest houses many of Monster Hunter World's beasties. It features vines that can be used to trap monsters, as well as other plants that can double as weapons. Many monsters have been spotted here including Anjanath and the dreaded flagship Rathalos.",
+            "about": "Consists of a massive forest, but is also comprised of clearings close to the coast and a combination of cliffs and massive trees that creates a vast vertical space.",
+            "maps": [
+                "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/ancient-forest-lvl3.jpg",
+                "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/MHW-AncientForest.jpg",
+                "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/ancient-forest-lvl2.jpg"
+            ],
+            "hazards": [
+                "Falling Boulders",
+                "Vines"
+            ],
+            "materials": [
+                "Herbs",
+                "Honey",
+                "Ancient Berries"
+            ],
+            "monsters": [
+                "Great Jagras",
+                "Anjanath",
+                "Rathalos"
+            ],
+            "quests": [
+                "Hunt the Great Jagras",
+                "Capture the Anjanath"
+            ],
+            "images": [{
+                "id": 1,
+                "title": "Ancient Forest",
+                "altText": "Ancient Forest",
+                "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/monster-hunter-world/a/a1/MHW-Ancient_Forest_Artwork_001.jpg",
+                "citation": "https://www.ign.com/wikis/monster-hunter-world/Locations"
+            }
+            ],
+            "videos": [
+                "Ancient Forest Video 1 URL",
+                "Ancient Forest Video 2 URL"
+            ],
+            "references": [
+                {
+                    "website-name": "FextraLife",
+                    "url": "https://monsterhunterworld.wiki.fextralife.com/Locations"
+                },
+                {
+                    "website-name": "IGN",
+                    "url": "https://www.ign.com/wikis/monster-hunter-world/Locations"
+                },
+                {
+                    "website-name": "Fandom",
+                    "url": "https://monsterhunter.fandom.com/wiki/MHW:_Locations"
+                }
+            ],
+            "notes": [
+                "Watch out for Rathalos in area 12"
+            ]
+        },
+        {
+            "id": 2,
+            "zoneCount": 15,
+            "name": "Coral Highlands",
+            "category": "Hunting",
+            "type": "Coral",
+            "description": "A vibrant coral-covered landscape with towering spires.",
+            "summary": "One of Monster Hunter's more visual striking new maps, the Coral Highlands exist as if an undersea reef were stripped of its water and none of its beauty. A vast landscape like that of the ocean floor Many species of coral lay across a vast landscape of steep cliffs and dangerous depths. Monsters like Paolumu and Legiana call this ominous beauty home.",
+            "about": "The Coral Highlands (Japanese 陸珊瑚の台地) consists of a vast landscape like that of the ocean floor, the most notorious feature is the many species of coral, as its name implies. This area is comprised of steep cliffs that form a highland, hunters will traverse the colorful highlands and ominous lower levels to achieve their objectives.",
+            "maps": [
+                "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/coral-highlands-lvl1.jpg",
+                "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/coral-highlands-lvl2.jpg",
+                "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/coral-highlands-lvl3.jpg"
+            ],
+            "hazards": ["Coral Puddles", "Falling Boulders"],
+            "materials": ["Coral Crystal", "Fucium Ore", "Spiritcore Ore"],
+            "monsters": ["Legiana", "Odogaron", "Pink Rathian"],
+            "quests": ["Hunt the Legiana", "Investigate the Coral Pukei-Pukei"],
+            "images": [
+                {
+                    "id": 1,
+                    "title": "Coral Highlands",
+                    "altText": "Coral Highlands",
+                    "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/monster-hunter-world/4/4e/MHW-Coral_Highlands_Artwork_001.jpg",
+                    "citation": "https://www.ign.com/wikis/monster-hunter-world/Locations"
+                },
+                {
+                "id": 2,
+                "title": "Mister Topsides Mining Guide",
+                "altText": "Mister Topsides Mining Guide",
+                "url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/coral-highlands-farm-small.jpg",
+                "citation": "https://monsterhunterworld.wiki.fextralife.com/Coral+Highlands"
+            }],
+            "videos": ["Coral Highlands Video 1 URL", "Coral Highlands Video 2 URL"],
+            "references": [
+                {
+                    "website-name": "FextraLife",
+                    "url": "https://monsterhunterworld.wiki.fextralife.com/Locations"
+                },
+                {
+                    "website-name": "IGN",
+                    "url": "https://www.ign.com/wikis/monster-hunter-world/Locations"
+                },
+                {
+                    "website-name": "Fandom",
+                    "url": "https://monsterhunter.fandom.com/wiki/Astera"
+                }
+            ],
+            "notes": ["Beware of Legiana's aerial attacks."]
+        },
+        {
+            "id": 3,
+            "zoneCount": 15,
+            "name": "Wildspire Waste",
+            "category": "Hunting",
+            "type": "Desert",
+            "description": "A vast, arid desert with shifting sands and unique flora.",
+            "summary": "A vast desert with swampy plains created from the water runoff of the Ancient Forest, Wildspire Waste is a brutal environment. Ant mounds dot the landscape that some monsters like Diablos call home. Hunters who venture into this landscape of sandy dunes, large cliffs, and swamps will need to harden themselves to the elements just as the monsters who call this place home have.",
+            "about": "Wildspire Waste (大蟻塚の荒地) is a large desert featuring dunes and unexpected swamps, with poor vegetation and rare monsters that can withstand the harsh conditions of life in the Wastes. A massive strip of parched land conjoined with a swampland that takes in water from the Ancient Forest. Ant colonies have built massive spires within the desert, while varied vegetation has sprung up along many watering holes. This locale is now home to creatures that take advantage of the two unique, coexisting ecosystems.",
+            "maps": ["https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/MHW-WildspireWaste.png", "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/wildspire-waste-lvl1.jpg", "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/wildspire-waste-lvl3.jpg"],
+            "hazards": ["Quicksand", "Mud"],
+            "materials": ["Dragonite Ore", "Barroth Ridge", "Inferno Sac"],
+            "monsters": ["Barroth", "Diablos", "Rathian"],
+            "quests": ["Hunt the Barroth", "Slay the Kulu-Ya-Ku"],
+            "images": [
+            {
+                "id": 1,
+                "title": "Wildspire Waste",
+                "altText": "Wildspire Waste",
+                "url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/monster-hunter-world-wildspire-waste-location-information-300.jpg",
+                "citation": "https://monsterhunterworld.wiki.fextralife.com/Wildspire+Waste"
+            },
+            {
+                "id": 2,
+                "title": "Wildspire Waste",
+                "altText": "Wildspire Waste",
+                "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/monster-hunter-world/9/9c/MHW-Wildspire_Waste_Screenshot_007.jpg",
+                "citation": "https://www.ign.com/wikis/monster-hunter-world/Locations"
+            }],
+            "videos": ["Wildspire Waste Video 1 URL", "Wildspire Waste Video 2 URL"],
+            "references": [
+                {
+                    "website-name": "FextraLife",
+                    "url": "https://monsterhunterworld.wiki.fextralife.com/Locations"
+                },
+                {
+                    "website-name": "IGN",
+                    "url": "https://www.ign.com/wikis/monster-hunter-world/Locations"
+                },
+                {
+                    "website-name": "Fandom",
+                    "url": "https://monsterhunter.fandom.com/wiki/Astera"
+                }
+            ],
+            "notes": ["Use Screamer Pods to stun Diablos when it burrows."]
+          },
+        {
+            "id": 4,
+            "zoneCount": 16,
+            "name": "Rotten Vale",
+            "category": "Hunting",
+            "type": "Cave",
+            "description": "A dark and foreboding cavern filled with toxic miasma and bizarre creatures.",
+            "summary": "A disgusting marsh of the dead rotting corpses of other monsters, the Rotten Vale looks to be home to some of the more adaptive monsters or those who just don't care (looking at you Odogaron). It features bones and corpses everywhere, leaving a poisonous gas in the air that can drain the health of hunters. Fortunately, a few quick-fire projectiles will temporarily leave the area breathable for the fight.",
+            "about": "The Rotten Vale is a massive area covered in the rotting bones of Elder Dragons and other monsters that have come there to die. It sits at the bottom of the Coral Highlands, though perhaps it is more accurate to say the Coral Highlands grows from the Rotten Vale.",
+            "maps": ["https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/rotten-vale-lvl1.jpg","https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/rotten-vale-lvl2.jpg","https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/rotten-vale-lvl3.jpg"],
+            "hazards": ["Effluvium", "Toxic Pools"],
+            "materials": ["Dragonbone Relic", "Beryl Ore", "Omniplegia Sac"],
+            "monsters": ["Odogaron", "Radobaan", "Great Girros"],
+            "quests": ["Hunt the Odogaron", "Slay the Radobaan"],
+            "images": [{
+                "id": 1,
+                "title": "Rotten Vale",
+                "altText": "Rotten Vale",
+                "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/monster-hunter-world/4/46/MHW-Rotten_Vale_Screenshot_001.jpg",
+                "citation": "https://www.ign.com/wikis/monster-hunter-world/Locations"
+            }],
+            "videos": ["Rotten Vale Video 1 URL", "Rotten Vale Video 2 URL"],
+            "references": ["Monster Hunter Wiki Rotten Vale", "Official Game Guide"],
+            "notes": ["Beware of Effluvium damage, bring Nulberries."]
+          },
+        {
+            "id": 5,
+            "zoneCount": 16,
+            "name": "Elder's Recess",
+            "category": "Hunting",
+            "type": "Volcano",
+            "description": "A fiery, volcanic region teeming with molten lava and powerful monsters.",
+            "summary": "Elder's Recess is a volcanic region covered in either lava or crystals. You'll need a Cool Drink to traverse the hotter areas here.",
+            "about": "",
+            "maps": ["https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/elder-s-recess-level-2.jpg","https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/elder-s-recess-level-1.jpg"],
+            "hazards": ["Lava Pools", "Brimstone"],
+            "materials": ["Firecell Stone", "Dragonvein Crystal", "Elder Dragon Bone"],
+            "monsters": ["Teostra", "Lunastra", "Nergigante"],
+            "quests": ["Hunt the Teostra", "Slay the Nergigante"],
+            "images": [{
+                "id": 1,
+                "title": "Elder's Recess",
+                "altText": "Elder's Recess",
+                "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/monster-hunter-world/a/a6/Elder%27s_Recess.jpg",
+                "citation": "https://www.ign.com/wikis/monster-hunter-world/Locations"
+            }],
+            "videos": ["Elder's Recess Video 1 URL", "Elder's Recess Video 2 URL"],
+            "references": [
+                {
+                    "website-name": "FextraLife",
+                    "url": "https://monsterhunterworld.wiki.fextralife.com/Locations"
+                },
+                {
+                    "website-name": "IGN",
+                    "url": "https://www.ign.com/wikis/monster-hunter-world/Locations"
+                },
+                {
+                    "website-name": "Fandom",
+                    "url": "https://monsterhunter.fandom.com/wiki/Rotten_Vale"
+                }
+            ],
+            "notes": ["Cool Drinks are essential to withstand the heat."]
+          },
+        {
+            "id": 6,
+            "zoneCount": 1,
+            "name": "Great Ravine",
+            "category": "Special",
+            "type": "Canyon",
+            "description": "A massive, deep canyon with precarious ledges and complex ecosystems.",
+            "summary": "Great Ravine (Japanese Name) is the theater of the first battle between the Hunter and the Elder Dragon Zorah Magdaros.",
+            "about": "",
+            "maps": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/great-ravine-map.jpg",
+            "hazards": ["Falling Debris", "Strong Winds"],
+            "materials": ["Carbalite Ore", "Dragonite Ore", "Monster Bone L"],
+            "monsters": ["Rathian", "Bazelgeuse", "Legiana"],
+            "quests": ["Hunt the Rathian", "Investigate the Bazelgeuse"],
+            "images": [
+                {
+                    "id": 1,
+                    "title": "Great Ravine",
+                    "altText": "Great Ravine",
+                    "url": "https://static.wikia.nocookie.net/monsterhunter/images/5/59/MHW-Great_Ravine_Screenshot_001.png",
+                    "citation": "https://monsterhunter.fandom.com/wiki/Great_Ravine"
+                }
+            ],
+            "videos": ["Great Ravine Video 1 URL", "Great Ravine Video 2 URL"],
+            "references": [
+                {
+                    "website-name": "FextraLife",
+                    "url": "https://monsterhunterworld.wiki.fextralife.com/Locations"
+                },
+                {
+                    "website-name": "IGN",
+                    "url": "https://www.ign.com/wikis/monster-hunter-world/Locations"
+                },
+                {
+                    "website-name": "Fandom",
+                    "url": "https://monsterhunter.fandom.com/wiki/Great_Ravine"
+                }
+            ],
+            "notes": ["Beware of Bazelgeuse's bombing runs."]
+          },
+        {
+            "id": 7,
+            "zoneCount": 3,
+            "name": "Confluence of Fates",
+            "category": "Special",
+            "type": "Mystical",
+            "description": "A place where multiple elements converge, creating a unique and mystical environment.",
+            "summary": "Confluence of Fates (Japanese Name) is a ?? - This place is located deep inside the giant crystal in Elder's Recess and it's where the strange source of power is emanating. The player goes here accompanied by the Admiral and the Seeker to uncover the truth about the New World.",
+            "about": "",
+            "maps": [
+            {
+                    "id": 0,
+                    "title": "I am not a map. I am a placeholder.",
+                    "altText": "There is nothing to see here.",
+                    "url": "map-ph.jpg",
+                    "citation": "Jay Sprout king of all designers"
+                }],
+            "hazards": ["Elemental Surges", "Teleportation Pads"],
+            "materials": ["Elder Dragon Bone", "Purecrystal", "Daora Dragon Scale"],
+            "monsters": ["Kushala Daora", "Namielle", "Xeno'jiiva"],
+            "quests": ["Hunt the Kushala Daora", "Slay the Namielle"],
+            "images": [
+                {
+                    "id": 1,
+                    "title": "Confluence of Fates",
+                    "altText": "Confluence of Fates",
+                    "url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/xenojiiva-monster-hunter-world-large-monster.jpg",
+                    "citation": "https://monsterhunterworld.wiki.fextralife.com/Confluence+of+Fates"
+                }
+            ],
+            "videos": ["Confluence of Fates Video 1 URL", "Confluence of Fates Video 2 URL"],
+            "references": [
+                {
+                    "website-name": "FextraLife",
+                    "url": "https://monsterhunterworld.wiki.fextralife.com/Locations"
+                },
+                {
+                    "website-name": "IGN",
+                    "url": "https://www.ign.com/wikis/monster-hunter-world/Locations"
+                },
+                {
+                    "website-name": "Fandom",
+                    "url": "https://monsterhunter.fandom.com/wiki/Astera"
+                }
+            ],
+            "notes": ["Aim for Kushala Daora's head to break its wind aura."]
+          },
+        {
+            "id": 8,
+            "zoneCount": 1,
+            "name": "Everstream",
+            "category": "Special",
+            "type": "River",
+            "description": "A colossal, winding river that courses through the New World, connecting various regions.",
+            "summary": "Everstream (Japanese Name) is an underground area in the New World where the Research Commission will try to stop Zorah Magdaros from reaching the mysterious source of power. It's a gigantic cave connected to the ocean with molten lava covering its walls and enormous stalactites awaiting to fall. That is where the Research Commission built the Great Barrier and brought the Dragonslayer to put an end to Zorah's journey.",
+            "about": "This area has only one campsite on a cliffside. The final fight against Zorah Magdaros takes place here. The area is a focal point for the bioenergy of the New World. It is an underground region, with pools of lava and burning rock contrasting with the dark stone roof and the water on its cavernous floor, leading out to the sea. Also in this area is a barrier that players defend with cannons and ballistae, and a passage created by Zorah Magdaros, which leads to the Elder's Recess. It is similar to the Great Ravine, in the respect that only Zorah Magdaros is fought here.",
+            "maps": ["https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/everstream-map.jpg"],
+            "hazards": ["Strong Currents", "Waterfalls"],
+            "materials": ["Dragonvein Crystal", "Fulgurbug", "Carbalite Ore"],
+            "monsters": ["Zinogre", "Stygian Zinogre", "Fulgur Anjanath"],
+            "quests": ["Hunt the Zinogre", "Slay the Fulgur Anjanath"],
+            "images": [
+                {
+                    "id": 1,
+                    "title": "Everstream",
+                    "altText": "Everstream",
+                    "url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/everstream-header.jpg",
+                    "citation": "https://monsterhunterworld.wiki.fextralife.com/Everstream"
+                }
+            ],
+            "videos": ["Everstream Video 1 URL", "Everstream Video 2 URL"],
+            "references": [
+                {
+                    "website-name": "FextraLife",
+                    "url": "https://monsterhunterworld.wiki.fextralife.com/Locations"
+                },
+                {
+                    "website-name": "IGN",
+                    "url": "https://www.ign.com/wikis/monster-hunter-world/Locations"
+                },
+                {
+                    "website-name": "Fandom",
+                    "url": "https://monsterhunter.fandom.com/wiki/Astera"
+                }
+            ],
+            "notes": ["Watch out for Zinogre's charged attacks."]
+          },
+        {
+            "id": 9,
+            "zoneCount": 4,
+            "name": "Caverns of El Dorado",
+            "category": "Special",
+            "type": "Cave",
+            "description": "A mysterious underground cavern said to be filled with untold treasures.",
+            "summary": "The Caverns of El Dorado are a peculiar network of caverns shaped and influenced both by the Everstream and the minerals that Kulve Taroth has collected over the years. Kulve Taroth's nesting ground—as yet undiscovered—is rumored to rest within the deepest region of the caverns, from which tremendous geothermal energies seem to emanate.",
+            "about": "",
+            "maps": [
+            {
+                    "id": 0,
+                    "title": "I am not a map. I am a placeholder.",
+                    "altText": "There is nothing to see here.",
+                    "url": "map-ph.jpg",
+                    "citation": "Jay Sprout king of all designers"
+                }],
+            "hazards": ["Falling Rocks", "Treacherous Terrain"],
+            "materials": ["Elder Dragon Bone", "Purecrystal", "Carbalite Ore"],
+            "monsters": ["Gold Rathian", "Silver Rathalos", "Nargacuga"],
+            "quests": ["Hunt the Gold Rathian", "Slay the Silver Rathalos"],
+            "images": [
+                {
+                    "id": 1,
+                    "title": "Caverns of El Dorado",
+                    "altText": "Caverns of El Dorado",
+                    "url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kulve_taroth-monster-hunter-world-large-monster.jpg",
+                    "citation": "https://monsterhunterworld.wiki.fextralife.com/Caverns+of+El+Dorado"
+                }
+            ],
+            "videos": ["Caverns of El Dorado Video 1 URL", "Caverns of El Dorado Video 2 URL"],
+            "references": [
+                {
+                    "website-name": "FextraLife",
+                    "url": "https://monsterhunterworld.wiki.fextralife.com/Locations"
+                },
+                {
+                    "website-name": "IGN",
+                    "url": "https://www.ign.com/wikis/monster-hunter-world/Locations"
+                },
+                {
+                    "website-name": "Fandom",
+                    "url": "https://monsterhunter.fandom.com/wiki/Astera"
+                }
+            ],
+            "notes": ["Bring traps to capture the elusive Nargacuga."]
+          },
+        {
+            "id": 10,
+            "zoneCount": 1,
+            "name": "Special Arena",
+            "category": "Special",
+            "type": "Arena",
+            "description": "An enclosed arena where hunters face off against powerful monsters.",
+            "summary": "Special Arena (Japanese Name) is a small place niched in a dry and rocky ravine, the Research Commission uses it to have hunters fight with captured monsters and study them. The camp is linked to the arena by a ropelift allowing the Hunter to fly above the abîme safely. The Special Arena is composed of two ground level in a circular shape, rigged with tools and traps to aids hunters in dealing with their foes.",
+            "about": "Located within the Great Ravine, this arena features several contraptions that can aid Hunters in battle, including ballistae, cannons, a Dragonator and a pile of boulders that can be dropped on a monster. A short zipline journey is required to travel from the Camp to the main arena, which is accessed by crawling through a small crack in the rock face. The lack of an easier entrance is likely to prevent monsters from escaping.",
+            "maps": ["https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/special-arena-map.jpg"],
+            "hazards": ["None"],
+            "materials": ["Arena Coins", "Special Arena Tickets", "Elder Dragon Blood"],
+            "monsters": ["Various"],
+            "quests": ["Arena Quest 1", "Arena Quest 2"],
+            "images": [
+                {
+                    "id": 1,
+                    "title": "Special Arena",
+                    "altText": "Special Arena",
+                    "url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/special-arena-header.jpg",
+                    "citation": "https://monsterhunterworld.wiki.fextralife.com/Special+Arena"
+                }
+            ],
+            "videos": ["Special Arena Video 1 URL", "Special Arena Video 2 URL"],
+            "references": [
+                {
+                    "website-name": "FextraLife",
+                    "url": "https://monsterhunterworld.wiki.fextralife.com/Locations"
+                },
+                {
+                    "website-name": "IGN",
+                    "url": "https://www.ign.com/wikis/monster-hunter-world/Locations"
+                },
+                {
+                    "website-name": "Fandom",
+                    "url": "https://monsterhunter.fandom.com/wiki/Astera"
+                }
+            ],
+            "notes": ["Use provided equipment in the arena."]
+          },
+        {
+            "id": 11,
+            "zoneCount": 1,
+            "name": "Arena",
+            "category": "Special",
+            "type": "Arena",
+            "description": "An enclosed arena where hunters face off against powerful monsters.",
+            "summary": "There is no Canteen/Camp to eat at.",
+            "about": "A large circular arena located on the outskirts of Astera. It features a massive metal gate that can be deployed to separate monsters from Hunters or even other monsters, as well as several net-covered pillars that can be climbed to allow combatants to perform aerial attacks. The Arena is accessed via a partially beached ship that serves as a camp for Hunters preparing for battle.",
+            "maps": ["https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/mhw-arena-layout.png"],
+            "hazards": ["None"],
+            "materials": ["Arena Coins", "Special Arena Tickets", "Elder Dragon Blood"],
+            "monsters": ["Various"],
+            "quests": ["Arena Quest 1", "Arena Quest 2"],
+            "images": [
+                {
+                    "id": 1,
+                    "title": "Arena",
+                    "altText": "Arena",
+                    "url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/mhw-arena-entrance.png",
+                    "citation": "https://monsterhunterworld.wiki.fextralife.com/Arena"
+                }
+            ],
+            "videos": ["Arena Video 1 URL", "Arena Video 2 URL"],
+            "references": [
+                {
+                    "website-name": "FextraLife",
+                    "url": "https://monsterhunterworld.wiki.fextralife.com/Locations"
+                },
+                {
+                    "website-name": "IGN",
+                    "url": "https://www.ign.com/wikis/monster-hunter-world/Locations"
+                },
+                {
+                    "website-name": "Fandom",
+                    "url": "https://monsterhunter.fandom.com/wiki/Astera"
+                }
+            ],
+            "notes": ["Use provided equipment in the arena."]
+          },
+        {
+            "id": 12,
+            "zoneCount": 17,
+            "name": "Hoarfrost Reach",
+            "category": "",
+            "type": "Snowy Tundra",
+            "description": "A vast frozen tundra with icy caves and towering icebergs.",
+            "summary": "",
+            "about": "",
+            "maps": ["https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/hoarfrostmap_layer2.png","https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/hoarfrostmap_layer1.png"],
+            "hazards": ["Deep Snow", "Avalanches"],
+            "materials": ["Purecrystal", "Dragonvein Crystal", "Snow Herb"],
+            "monsters": ["Beotodus", "Barioth", "Velkhana"],
+            "quests": ["Hunt the Beotodus", "Slay the Velkhana"],
+            "images": [
+                {
+                    "id": 1,
+                    "title": "Hoarfrost Reach",
+                    "altText": "Hoarfrost Reach",
+                    "url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/hoarfrost-reach-location-icerborne-mhw-wiki-guide.jpg",
+                    "citation": "https://monsterhunterworld.wiki.fextralife.com/Hoarfrost+Reach"
+                }
+            ],
+            "videos": ["Hoarfrost Reach Video 1 URL", "Hoarfrost Reach Video 2 URL"],
+            "references": [
+                {
+                    "website-name": "FextraLife",
+                    "url": "https://monsterhunterworld.wiki.fextralife.com/Locations"
+                },
+                {
+                    "website-name": "IGN",
+                    "url": "https://www.ign.com/wikis/monster-hunter-world/Locations"
+                },
+                {
+                    "website-name": "Fandom",
+                    "url": "https://monsterhunter.fandom.com/wiki/Astera"
+                }
+            ],
+            "notes": ["Bring hot drinks to counter the cold."]
+          },
+        {
+            "id": 13,
+            "zoneCount": 15,
+            "name": "Guiding Lands",
+            "category": "",
+            "type": "Mystical",
+            "description": "A realm where different regions merge, hosting a wide array of creatures.",
+            "summary": "",
+            "about": "",
+            "maps": [
+                {
+                    "id": 0,
+                    "title": "I am not a map. I am a placeholder.",
+                    "altText": "There is nothing to see here.",
+                    "url": "map-ph.jpg",
+                    "citation": "Jay Sprout king of all designers"
+                }
+                ],
+            "hazards": ["Turf Wars", "Environmental Hazards"],
+            "materials": ["Elder Dragon Bone", "Spiritvein Crystal", "Large Wyvern Gem"],
+            "monsters": ["Savage Deviljho", "Tempered Kirin", "Ruiner Nergigante"],
+            "quests": ["Hunt the Savage Deviljho", "Slay the Tempered Kirin"],
+            "images": [
+                {
+                    "id": 0,
+                    "title": "I am not an image. I am a placeholder.",
+                    "altText": "There is nothing to see here.",
+                    "url": "image-ph.jpg",
+                    "citation": "Jay Sprout king of all designers"
+                }
+            ],
+            "videos": ["Guiding Lands Video 1 URL", "Guiding Lands Video 2 URL"],
+            "references": ["Monster Hunter Wiki Guiding Lands", "Official Game Guide"],
+            "notes": ["Monsters can turf war with each other."]
+          },
+        {
+            "id": 14,
+            "zoneCount": 1,
+            "name": "Secluded Valley",
+            "category": "",
+            "type": "Valley",
+            "description": "A hidden valley with lush vegetation, perfect for ambushing prey.",
+            "summary": "",
+            "about": "",
+            "maps": [
+            {
+                    "id": 0,
+                    "title": "I am not a map. I am a placeholder.",
+                    "altText": "There is nothing to see here.",
+                    "url": "map-ph.jpg",
+                    "citation": "Jay Sprout king of all designers"
+                }],
+            "hazards": ["Steep Cliffs", "Hidden Pits"],
+            "materials": ["Ancient Berries", "Prism Sootstone", "Heavenly Crystal"],
+            "monsters": ["Nargacuga", "Yian Garuga", "Zinogre"],
+            "quests": ["Hunt the Nargacuga", "Slay the Yian Garuga"],
+            "images": [
+                {
+                    "id": 0,
+                    "title": "I am not an image. I am a placeholder.",
+                    "altText": "There is nothing to see here.",
+                    "url": "image-ph.jpg",
+                    "citation": "Jay Sprout king of all designers"
+                }
+            ],
+            "videos": ["Secluded Valley Video 1 URL", "Secluded Valley Video 2 URL"],
+            "references": [
+                {
+                    "website-name": "FextraLife",
+                    "url": "https://monsterhunterworld.wiki.fextralife.com/Locations"
+                },
+                {
+                    "website-name": "IGN",
+                    "url": "https://www.ign.com/wikis/monster-hunter-world/Locations"
+                },
+                {
+                    "website-name": "Fandom",
+                    "url": "https://monsterhunter.fandom.com/wiki/Astera"
+                }
+            ],
+            "notes": ["Stay vigilant for surprise attacks."]
+          },
+        {
+            "id": 15,
+            "zoneCount": 0,
+            "name": "Astera",
+            "category": "Settlement",
+            "type": "Forest",
+            "summary": "Astera (Japanese アステラ) is a settlement first introduced in Monster Hunter: World. It is the home of the Research Commission in the New World. Your headquarters in Monster Hunter: World, Astera will be where you do everything from accepting quests, to crafting armor, to getting drunk with your friends in the gathering hub.",
+            "about": "With the Guild at it's core, the Research Commission was formed in order to solve the mystery of the Elder Crossings. The base of their research activities is here in Astera It has been forty years since the First Fleet arrived and established this as a major stronghold, which was built by the hands, skills, efforts, and labor of many people. The First Fleet was deployed in pursuit of Kushala Daora. During a storm, the crew had a chance encounter with a mysterious Elder Dragon. The ship was split and tossed on top of a cliff, but it still eventually became a foothold for research projects. What's more, the waterfall flowing right below it turned out to be a stroke of good luck for the First Fleet. The First Fleet found it difficult to secure enough resources to upgrade their base at first and expanded the base by recycling their ship. They had no choice but to wait for further deployments to do any full-scale work, however, so they poured their efforts into reinforcing the ship atop the cliff.",
+            "description": "Astera is built primarily out of wood, some taken from the very ships that brought the Research Commission to the New World. It sits below a waterfall between the Ancient Forest and Wildspire Waste. Astera is more of a base than a village, built to support the Hunters and researchers as they explore the New World and its ecology. It is built in three primary tiers. Winding stairs and a waterwheel-powered series of chain pulleys serve to move people and supplies from one tier to the other quickly. The Tradeyard is the ground floor, containing docks, supply caches, research 'offices'(really more of a massive pile of books), a meeting area, and an Ancient Tree. Some of the former ships also serve as bunks for hunters new to the area. The second tier contains the Workshop, where weapons and equipment are developed, and the Canteen, which serves food. Lodging for veteran New World hunters can also be found here, as can a training area.",
+            "maps": [
+            {
+                    "id": 0,
+                    "title": "I am not a map. I am a placeholder.",
+                    "altText": "There is nothing to see here.",
+                    "url": "map-ph.jpg",
+                    "citation": "Jay Sprout king of all designers"
+                }],
+            "hazards": [
+                "Falling Boulders",
+                "Vines"
+            ],
+            "materials": [
+                "Herbs",
+                "Honey",
+                "Ancient Berries"
+            ],
+            "monsters": [
+                "Great Jagras",
+                "Anjanath",
+                "Rathalos"
+            ],
+            "quests": [
+                "Hunt the Great Jagras",
+                "Capture the Anjanath"
+            ],
+            "images": [
+                {
+                    "id": 1,
+                    "title": "Astera",
+                    "altText": "Astera",
+                    "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/monster-hunter-world/b/b9/Screen_Shot_2018-01-28_at_3.01.08_PM.jpg",
+                    "citation": "https://www.ign.com/wikis/monster-hunter-world/Locations"
+                }
+            ],
+            "videos": [
+                "Ancient Forest Video 1 URL",
+                "Ancient Forest Video 2 URL"
+            ],
+            "references": [
+                {
+                    "website-name": "FextraLife",
+                    "url": "https://monsterhunterworld.wiki.fextralife.com/Locations"
+                },
+                {
+                    "website-name": "IGN",
+                    "url": "https://www.ign.com/wikis/monster-hunter-world/Locations"
+                },
+                {
+                    "website-name": "Fandom",
+                    "url": "https://monsterhunter.fandom.com/wiki/Astera"
+                }
+            ],
+            "notes": [
+                ""
+            ]
+        },
+        {
+            "id": 16,
+            "zoneCount": 0,
+            "name": "Research Base",
+            "category": "Settlement",
+            "type": "Forest",
+            "description": "A lush, ancient forest with towering trees and diverse wildlife.",
+            "summary": "The Reserach Base (Japanese 研究基地) is a base for the third fleet trapped in the Coral Highlands located somewhere around the Coral Highlands. With the help of the Hunter, the Research Commission uses it to reach the Rotten Vale. Once repaired, the Palicoes will use it as a base in preparation for their Safari.",
+            "about": "",
+            "maps": [
+            {
+                    "id": 0,
+                    "title": "I am not a map. I am a placeholder.",
+                    "altText": "There is nothing to see here.",
+                    "url": "map-ph.jpg",
+                    "citation": "Jay Sprout king of all designers"
+                }],
+            "hazards": [
+                "Falling Boulders",
+                "Vines"
+            ],
+            "materials": [
+                "Herbs",
+                "Honey",
+                "Ancient Berries"
+            ],
+            "monsters": [
+                "Great Jagras",
+                "Anjanath",
+                "Rathalos"
+            ],
+            "quests": [
+                "Hunt the Great Jagras",
+                "Capture the Anjanath"
+            ],
+            "images": [
+                {
+                    "id": 1,
+                    "title": "Research Base",
+                    "altText": "Research Base",
+                    "url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/research-base-placeholder.jpg",
+                    "citation": "https://monsterhunterworld.wiki.fextralife.com/Research+Base"
+                }
+            ],
+            "videos": [
+                "Ancient Forest Video 1 URL",
+                "Ancient Forest Video 2 URL"
+            ],
+            "references": [
+                {
+                    "website-name": "FextraLife",
+                    "url": "https://monsterhunterworld.wiki.fextralife.com/Locations"
+                },
+                {
+                    "website-name": "IGN",
+                    "url": "https://www.ign.com/wikis/monster-hunter-world/Locations"
+                },
+                {
+                    "website-name": "Fandom",
+                    "url": "https://monsterhunter.fandom.com/wiki/Astera"
+                }
+            ],
+            "notes": [
+                "Watch out for Rathalos in area 12"
+            ]
+        },
+        {
+            "id": 17,
+            "zoneCount": 0,
+            "name": "Canteen",
+            "category": "",
+            "type": "Forest",
+            "description": "A lush, ancient forest with towering trees and diverse wildlife.",
+            "summary": "",
+            "about": "",
+            "maps": [
+            {
+                    "id": 0,
+                    "title": "I am not a map. I am a placeholder.",
+                    "altText": "There is nothing to see here.",
+                    "url": "map-ph.jpg",
+                    "citation": "Jay Sprout king of all designers"
+                }],
+            "hazards": [
+                "Falling Boulders",
+                "Vines"
+            ],
+            "materials": [
+                "Herbs",
+                "Honey",
+                "Ancient Berries"
+            ],
+            "monsters": [
+                "Great Jagras",
+                "Anjanath",
+                "Rathalos"
+            ],
+            "quests": [
+                "Hunt the Great Jagras",
+                "Capture the Anjanath"
+            ],
+            "images": [
+                {
+                    "id": 0,
+                    "title": "I am not an image. I am a placeholder.",
+                    "altText": "There is nothing to see here.",
+                    "url": "image-ph.jpg",
+                    "citation": "Jay Sprout king of all designers"
+                }
+            ],
+            "videos": [
+                "Ancient Forest Video 1 URL",
+                "Ancient Forest Video 2 URL"
+            ],
+            "references": [
+                {
+                    "website-name": "FextraLife",
+                    "url": "https://monsterhunterworld.wiki.fextralife.com/Locations"
+                },
+                {
+                    "website-name": "IGN",
+                    "url": "https://www.ign.com/wikis/monster-hunter-world/Locations"
+                },
+                {
+                    "website-name": "Fandom",
+                    "url": "https://monsterhunter.fandom.com/wiki/Astera"
+                }
+            ],
+            "notes": [
+                "Watch out for Rathalos in area 12"
+            ]
+        },
+        {
+            "id": 18,
+            "zoneCount": 0,
+            "name": "Smithy",
+            "category": "",
+            "type": "Forest",
+            "description": "A lush, ancient forest with towering trees and diverse wildlife.",
+            "summary": "",
+            "about": "",
+            "maps": [
+            {
+                    "id": 0,
+                    "title": "I am not a map. I am a placeholder.",
+                    "altText": "There is nothing to see here.",
+                    "url": "map-ph.jpg",
+                    "citation": "Jay Sprout king of all designers"
+                }],
+            "hazards": [
+                "Falling Boulders",
+                "Vines"
+            ],
+            "materials": [
+                "Herbs",
+                "Honey",
+                "Ancient Berries"
+            ],
+            "monsters": [
+                "Great Jagras",
+                "Anjanath",
+                "Rathalos"
+            ],
+            "quests": [
+                "Hunt the Great Jagras",
+                "Capture the Anjanath"
+            ],
+            "images": [
+                {
+                    "id": 0,
+                    "title": "I am not an image. I am a placeholder.",
+                    "altText": "There is nothing to see here.",
+                    "url": "image-ph.jpg",
+                    "citation": "Jay Sprout king of all designers"
+                }
+            ],
+            "videos": [
+                "Ancient Forest Video 1 URL",
+                "Ancient Forest Video 2 URL"
+            ],
+            "references": [
+                {
+                    "website-name": "FextraLife",
+                    "url": "https://monsterhunterworld.wiki.fextralife.com/Locations"
+                },
+                {
+                    "website-name": "IGN",
+                    "url": "https://www.ign.com/wikis/monster-hunter-world/Locations"
+                },
+                {
+                    "website-name": "Fandom",
+                    "url": "https://monsterhunter.fandom.com/wiki/Astera"
+                }
+            ],
+            "notes": [
+                "Watch out for Rathalos in area 12"
+            ]
+        },
+        {
+            "id": 19,
+            "zoneCount": 0,
+            "name": "Seliana",
+            "category": "",
+            "type": "Forest",
+            "description": "A lush, ancient forest with towering trees and diverse wildlife.",
+            "summary": "",
+            "about": "",
+            "maps": [
+            {
+                    "id": 0,
+                    "title": "I am not a map. I am a placeholder.",
+                    "altText": "There is nothing to see here.",
+                    "url": "map-ph.jpg",
+                    "citation": "Jay Sprout king of all designers"
+                }],
+            "hazards": [
+                "Falling Boulders",
+                "Vines"
+            ],
+            "materials": [
+                "Herbs",
+                "Honey",
+                "Ancient Berries"
+            ],
+            "monsters": [
+                "Great Jagras",
+                "Anjanath",
+                "Rathalos"
+            ],
+            "quests": [
+                "Hunt the Great Jagras",
+                "Capture the Anjanath"
+            ],
+            "images": [
+                {
+                    "id": 0,
+                    "title": "I am not an image. I am a placeholder.",
+                    "altText": "There is nothing to see here.",
+                    "url": "image-ph.jpg",
+                    "citation": "Jay Sprout king of all designers"
+                }
+            ],
+            "videos": [
+                "Ancient Forest Video 1 URL",
+                "Ancient Forest Video 2 URL"
+            ],
+            "references": [
+                {
+                    "website-name": "FextraLife",
+                    "url": "https://monsterhunterworld.wiki.fextralife.com/Locations"
+                },
+                {
+                    "website-name": "IGN",
+                    "url": "https://www.ign.com/wikis/monster-hunter-world/Locations"
+                },
+                {
+                    "website-name": "Fandom",
+                    "url": "https://monsterhunter.fandom.com/wiki/Astera"
+                }
+            ],
+            "notes": [
+                "Watch out for Rathalos in area 12"
+            ]
+        }
+    ]
+}
